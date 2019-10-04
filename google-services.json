@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "417398387164",
+    "firebase_url": "https://fir-registrationlogin-e8857.firebaseio.com",
+    "project_id": "fir-registrationlogin-e8857",
+    "storage_bucket": "fir-registrationlogin-e8857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417398387164:android:b50647e766565af4",
+        "android_client_info": {
+          "package_name": "com.example.vrinda.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417398387164-1m2ol88357b0ir3e6p991snglg2o1o7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vrinda.myapplication",
+            "certificate_hash": "929a9482be7630bc35a78e7eda55e032ba86c532"
+          }
+        },
+        {
+          "client_id": "417398387164-b2vvm9psj7l0lo6mjodmhifvr75vu3gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6X5do8g9xO_yLTiRqbhHAevhHCY1OQ0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417398387164-b2vvm9psj7l0lo6mjodmhifvr75vu3gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
